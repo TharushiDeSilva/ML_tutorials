@@ -1,0 +1,7 @@
+Observed for accuracy of the prediction 
+1. more data in the data set leads to more acuaracy. but for some reason, the 20th input started giving an unpredictable error.
+So the data set is limited to 19 elements 
+
+2. more cycles give better results 
+
+3. having anomalies in the data set impacts the accuracy of the prediction 
